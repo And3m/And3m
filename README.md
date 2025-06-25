@@ -6,6 +6,7 @@ I'm a passionate **Data Analyst** and **Business Intelligence Professional** wit
 ## 🔧 Tools & Technologies
 ### Data Analysis & Visualization
 - **Microsoft Power BI** - Advanced dashboard creation and data modeling
+- **Tableau** - Interactive data visualization and business intelligence
 - **Microsoft Excel** - Data analysis, pivot tables, and advanced formulas
 - **SQL** - Database querying and data manipulation
 - **Python** - Data analysis and automation
@@ -30,11 +31,11 @@ I'm a passionate **Data Analyst** and **Business Intelligence Professional** wit
 - **Focus**: Sales trends, customer segmentation, and performance metrics
 
 ## 🎯 What I Do
-- 📊 **Data Visualization**: Creating interactive dashboards and reports
-- 🔍 **Data Analysis**: Extracting insights from complex datasets
-- 📈 **Business Intelligence**: Translating data into strategic recommendations
-- 🛠️ **Data Cleaning**: Ensuring data quality and consistency
-- 📋 **Reporting**: Automated reporting solutions
+- 📊 **Data Visualization**: Creating interactive dashboards and reports with Power BI and Tableau
+- 🔍 **Data Analysis**: Extracting insights from complex datasets using advanced analytics
+- 📈 **Business Intelligence**: Translating data into strategic recommendations and actionable insights
+- 🛮 **Data Cleaning**: Ensuring data quality and consistency across multiple platforms
+- 📋 **Reporting**: Automated reporting solutions and executive-level dashboards
 
 ## 🌟 Key Skills
 - **Data Storytelling**: Presenting complex data in understandable formats
