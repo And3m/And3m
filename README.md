@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vijay Andem
 
 ## 🚀 About Me
-I'm a passionate **Data Analyst** and **Business Intelligence Professional** with expertise in transforming raw data into actionable insights. I love working with data visualization tools and creating compelling dashboards that drive business decisions.
+I'm a passionate **Data Analyst** and **Business Intelligence Professional** with expertise in transforming raw data into actionable insights. I specialize in creating compelling Power BI dashboards and data visualizations that drive strategic business decisions. Currently focused on expanding my skills in advanced analytics and machine learning applications.
 
 ## 🔧 Tools & Technologies
 ### Data Analysis & Visualization
@@ -50,9 +50,10 @@ I'm a passionate **Data Analyst** and **Business Intelligence Professional** wit
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=And3m&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [Your Portfolio Website](https://your-portfolio.com)
+- 💼 LinkedIn: [Vijay Andem](https://linkedin.com/in/vijay-andem)
+- 📧 Email: vijayandem@gmail.com
+- 💻 GitHub: [@And3m](https://github.com/And3m)
+- 📍 Location: India
 
 ---
 ⭐️ From [And3m](https://github.com/And3m) | Always learning, always growing!
