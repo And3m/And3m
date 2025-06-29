@@ -1,15 +1,12 @@
 <div align="center">
 
-# Vijay Andem
+# 👋 Vijay Andem
 
 **Data Analyst | Business Intelligence | Power BI | Tableau | Python | Dashboard Developer**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Power+BI+%7C+Tableau+%7C+Python+Expert;Building+Interactive+Dashboards;Always+Learning%2C+Always+Growing!" alt="Typing SVG: Data Analyst, Power BI, Tableau, Python" />
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-andem-b2092223/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayandem@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-And3m-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m)
-[![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](#contact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Power+BI+%7C+Tableau+%7C+Python+Expert;Building+Interactive+Dashboards;Always+Learning%2C+Always+Growing!" alt="Typing SVG: Data Analyst, Power BI, Tableau, Python" />
 
 </div>
 
