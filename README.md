@@ -17,7 +17,33 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Data Analytics" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<div align="center">
+
+### 🎯 **Transforming Data Into Intelligence**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="80" height="80">
+<br><strong>📊 Data Analytics</strong>
+<br><em>Power BI • Tableau • Python</em>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="80" height="80">
+<br><strong>🤖 AI/ML Engineering</strong>
+<br><em>LangChain • Ollama • RAG</em>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="80" height="80">
+<br><strong>💡 Business Intelligence</strong>
+<br><em>Insights • Strategy • Solutions</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="left">
 
 🔹 **Passionate Data Analyst** with expertise in transforming complex datasets into compelling visual stories
 
@@ -31,7 +57,7 @@
 
 🔹 **Strategic Thinker** focused on driving data-driven decision making across organizations
 
-<br clear="right"/>
+</div>
 
 ---
 
@@ -296,6 +322,30 @@ Soft Skills:
 
 <div align="center">
 
+### 🏆 **Professional Journey in Numbers**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" height="60">
+<br><strong>Data Analytics</strong>
+<br>📈 Dashboards Created
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="60" height="60">
+<br><strong>AI/ML Projects</strong>
+<br>🤖 Intelligent Solutions
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="60" height="60">
+<br><strong>Business Impact</strong>
+<br>💡 Data-Driven Insights
+</td>
+</tr>
+</table>
+
+<br>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=And3m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=And3m&layout=compact&langs_count=8&theme=tokyonight"/>
 
@@ -313,7 +363,27 @@ Soft Skills:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50" height="50">
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" height="60">
+<br><strong>Collaboration</strong>
+<br><em>Open to Projects</em>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="60" height="60">
+<br><strong>Innovation</strong>
+<br><em>AI/ML Solutions</em>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" height="60">
+<br><strong>Growth</strong>
+<br><em>Continuous Learning</em>
+</td>
+</tr>
+</table>
+
+<br>
 
 ### 💬 "Data is the new oil, insights are the refined fuel, and AI is the engine that powers intelligent decisions."
 
