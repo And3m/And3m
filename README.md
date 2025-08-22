@@ -1,13 +1,15 @@
 <div align="center">
 
 # 👋 Hi, I'm Vijay Andem
-### 🚀 Data Analyst | Business Intelligence Professional | Insight Creator
+### 🚀 Data Analyst | Business Intelligence Professional | AI/ML Engineer | Insight Creator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Power+BI+%7C+Tableau+%7C+Python+Expert;Building+Interactive+Dashboards;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Power+BI+%7C+Tableau+%7C+Python+Expert;Building+AI+Agents+%26+LLM+Applications;Creating+Interactive+Dashboards;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-andem-b2092223/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayandem@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://and3m.github.io/vijayandem.github.io/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vjandem)
 [![Location](https://img.shields.io/badge/Location-India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
@@ -22,9 +24,11 @@
 
 🔹 **Business Intelligence Professional** specializing in Power BI, Tableau, and Streamlit dashboard development
 
+🔹 **AI/ML Engineer** building intelligent chat agents, LLM applications, and RAG systems
+
 🔹 **Problem Solver** who bridges the gap between technical data analysis and strategic business insights
 
-🔹 **Continuous Learner** expanding expertise in advanced analytics and machine learning applications
+🔹 **Continuous Learner** expanding expertise in advanced analytics, machine learning, and AI engineering
 
 🔹 **Strategic Thinker** focused on driving data-driven decision making across organizations
 
@@ -43,6 +47,18 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 🤖 AI/ML & LLM Technologies
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-FF6B35?style=for-the-badge&logo=chainlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
 </div>
 
@@ -139,6 +155,83 @@
 </tr>
 </table>
 
+<div align="center">
+
+### 🤖 **AI/ML & LLM Applications**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Interactive AI Chat Agent
+[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/chainlit-ollama-interactive-agent)
+[![Live Demo](https://img.shields.io/badge/Chainlit-FF6B35?style=for-the-badge&logo=chainlit&logoColor=white)](#)
+
+**🎯 Project Highlights:**
+- 💬 **Interactive Chat Interface** with 2048-token responses
+- 📈 **Real-time Monitoring** and system analytics
+- 🔍 **Advanced Commands** (/status, /metrics, /help)
+- 🔒 **100% Local & Private** - no external APIs required
+
+**💻 Tech Stack:**
+`Python` `Chainlit` `Ollama` `Llama 3.2 3B` `psutil` `Real-time Analytics`
+
+</td>
+<td width="50%">
+
+### 🤜 LangChain Playbook
+[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/Langchain_playbook)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+
+**🎯 Project Highlights:**
+- 📚 **Comprehensive Tutorials** from basics to advanced
+- 🕰️ **Hands-on Learning** with practical examples
+- 🏠 **Real-world Projects** - chatbots, RAG systems, agents
+- 📄 **Structured Learning Path** for all skill levels
+
+**💻 Tech Stack:**
+`Python` `LangChain` `OpenAI` `Anthropic` `RAG` `Vector Databases`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏠 AI Engineering Hub
+[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/ai-engineering-hub)
+[![AI](https://img.shields.io/badge/AI%20Engineering-4A90E2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](#)
+
+**🎯 Project Highlights:**
+- 📈 **In-depth LLM Tutorials** and implementations
+- 🤖 **Real-world AI Agents** with practical applications
+- 🔍 **RAG Systems** and advanced retrieval techniques
+- 👥 **Community-driven** learning and contributions
+
+**💻 Tech Stack:**
+`LLMs` `RAG` `AI Agents` `Machine Learning` `Deep Learning`
+
+</td>
+<td width="50%">
+
+### 🌐 Personal Portfolio Website
+[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/vijayandem.github.io)
+[![Website](https://img.shields.io/badge/Live%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://and3m.github.io/vijayandem.github.io/)
+
+**🎯 Project Highlights:**
+- 🎨 **Modern Responsive Design** with CSS/SCSS
+- 📊 **Interactive Portfolio** showcasing projects
+- 📱 **Mobile-optimized** user experience
+- 🚀 **GitHub Pages** deployment
+
+**💻 Tech Stack:**
+`HTML5` `CSS3` `SCSS` `JavaScript` `Responsive Design`
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎯 What I Bring to the Table
@@ -165,9 +258,9 @@ Translating data findings into strategic recommendations and actionable business
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Broom.png" width="50" height="50">
-<h4>🧹 Data Quality</h4>
-Ensuring data integrity and consistency through robust cleaning and validation processes
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="50" height="50">
+<h4>🤖 AI/ML Engineering</h4>
+Building intelligent chat agents, LLM applications, and RAG systems with LangChain and local models
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="50" height="50">
@@ -196,6 +289,9 @@ Technical Skills:
   - ETL Processes: "Data extraction, transformation, and loading"
   - Database Management: "SQL optimization and data modeling"
   - Web App Development: "Streamlit-based analytics applications"
+  - AI/ML Engineering: "LLM applications, RAG systems, and intelligent agents"
+  - Prompt Engineering: "Optimizing AI model interactions and responses"
+  - Local AI Deployment: "Privacy-focused, on-premise AI solutions"
 
 Soft Skills:
   - Problem Solving: "Data-driven solution architecture"
@@ -203,6 +299,7 @@ Soft Skills:
   - Stakeholder Management: "Cross-functional collaboration"
   - Presentation Skills: "Technical concepts for diverse audiences"
   - Project Management: "End-to-end analytics project delivery"
+  - Innovation Mindset: "Exploring cutting-edge AI technologies"
 ```
 
 ---
@@ -230,15 +327,17 @@ Soft Skills:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50" height="50">
 
-### 💬 "Data is the new oil, but insights are the refined fuel that powers decisions."
+### 💬 "Data is the new oil, insights are the refined fuel, and AI is the engine that powers intelligent decisions."
 
-I'm always excited to collaborate on data-driven projects, discuss analytics strategies, or explore opportunities in business intelligence. Let's connect and transform data into impactful solutions together!
+I'm always excited to collaborate on data-driven projects, discuss analytics strategies, explore AI/ML innovations, or dive into opportunities in business intelligence. Let's connect and transform data into impactful solutions together!
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/vijay-andem-b2092223/)
 [![Email](https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:vijayandem@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/And3m)
+[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4)](https://and3m.github.io/vijayandem.github.io/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/vjandem)
 
 <br>
 
