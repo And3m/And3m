@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-andem-b2092223/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayandem@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://and3m.github.io/vijayandem.github.io/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vjandem)
 [![Location](https://img.shields.io/badge/Location-India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
@@ -215,18 +214,7 @@
 </td>
 <td width="50%">
 
-### 🌐 Personal Portfolio Website
-[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/vijayandem.github.io)
-[![Website](https://img.shields.io/badge/Live%20Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://and3m.github.io/vijayandem.github.io/)
-
-**🎯 Project Highlights:**
-- 🎨 **Modern Responsive Design** with CSS/SCSS
-- 📊 **Interactive Portfolio** showcasing projects
-- 📱 **Mobile-optimized** user experience
-- 🚀 **GitHub Pages** deployment
-
-**💻 Tech Stack:**
-`HTML5` `CSS3` `SCSS` `JavaScript` `Responsive Design`
+<!-- Future AI/ML project slot -->
 
 </td>
 </tr>
@@ -336,7 +324,6 @@ I'm always excited to collaborate on data-driven projects, discuss analytics str
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/vijay-andem-b2092223/)
 [![Email](https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:vijayandem@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/And3m)
-[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4)](https://and3m.github.io/vijayandem.github.io/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/vjandem)
 
 <br>
