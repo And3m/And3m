@@ -184,7 +184,7 @@
 
 ### ☕ Coffee Shop Sales Dashboard
 [![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/Coffee-Shop-Sales-Analysis-Dashboard-Streamlit-Pandas-Plotly)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://coffee-shop-dashboard.streamlit.app)
 
 **🎯 Project Highlights:**
 - 📱 **Interactive Streamlit Dashboard** with real-time analytics
@@ -200,7 +200,7 @@
 
 ### 🏢 HR Dashboard Analytics
 [![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/HR-Dashboard-Tableau)
-[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vijay.andem)
 
 **🎯 Project Highlights:**
 - 👥 **Comprehensive HR Analytics** with workforce insights
@@ -218,7 +218,7 @@
 
 ### 🍽️ Restaurant Ratings Analysis
 [![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/Restaurant-Ratings-Analysis-PowerBI)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/vjandem)
 
 **🎯 Project Highlights:**
 - 📊 **5-page Interactive Dashboard** with comprehensive insights
@@ -234,7 +234,7 @@
 
 ### 📈 Superstore Sales Analysis
 [![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/Superstore-Sales-Analysis-EDA)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/And3m/Superstore-Sales-Analysis-EDA)
 
 **🎯 Project Highlights:**
 - 🔍 **Comprehensive EDA** of sales performance data
@@ -261,7 +261,7 @@
 
 ### 🚀 Interactive AI Chat Agent
 [![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/chainlit-ollama-interactive-agent)
-[![Live Demo](https://img.shields.io/badge/Chainlit-FF6B35?style=for-the-badge&logo=chainlit&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Chainlit-FF6B35?style=for-the-badge&logo=chainlit&logoColor=white)](https://github.com/And3m/chainlit-ollama-interactive-agent)
 
 **🎯 Project Highlights:**
 - 💬 **Interactive Chat Interface** with 2048-token responses
@@ -277,7 +277,7 @@
 
 ### 🤜 LangChain Playbook
 [![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/Langchain_playbook)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/And3m/Langchain_playbook)
 
 **🎯 Project Highlights:**
 - 📚 **Comprehensive Tutorials** from basics to advanced
@@ -295,7 +295,7 @@
 
 ### 🏠 AI Engineering Hub
 [![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/ai-engineering-hub)
-[![AI](https://img.shields.io/badge/AI%20Engineering-4A90E2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](#)
+[![AI](https://img.shields.io/badge/AI%20Engineering-4A90E2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://github.com/And3m/ai-engineering-hub)
 
 **🎯 Project Highlights:**
 - 📈 **In-depth LLM Tutorials** and implementations
