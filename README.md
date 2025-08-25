@@ -39,13 +39,13 @@
     <img src="https://komarev.com/ghpvc/?username=And3m&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/And3m">
-    <img src="https://badges.pufler.dev/years/And3m" alt="Years Badge" />
+    <img src="https://img.shields.io/badge/GitHub%20Since-2020-blue?style=flat-square&logo=github" alt="GitHub Since" />
   </a>
   <a href="https://github.com/And3m?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/And3m" alt="Repos Badge" />
+    <img src="https://img.shields.io/badge/Public%20Repos-15+-green?style=flat-square&logo=github" alt="Public Repos" />
   </a>
   <a href="https://github.com/And3m">
-    <img src="https://badges.pufler.dev/commits/monthly/And3m" alt="Commits Badge" />
+    <img src="https://img.shields.io/badge/Total%20Commits-500+-orange?style=flat-square&logo=git" alt="Total Commits" />
   </a>
 </div>
 
@@ -132,20 +132,20 @@
 ### 🤖 AI/ML & LLM Technologies
 <div align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logo=llama&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-FF6B35?style=for-the-badge&logo=chainlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logo=lambda&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=circle&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-FF6B35?style=for-the-badge&logo=chain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-736DC7?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-736DC7?style=for-the-badge&logo=c&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=transformers&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=brain&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-00D4FF?style=for-the-badge&logo=database&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=p&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-0F8B8D?style=for-the-badge&logo=weaviate&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-0F8B8D?style=for-the-badge&logo=database&logoColor=white)
 
 </div>
 
@@ -278,7 +278,7 @@
 
 ### 🚀 Interactive AI Chat Agent
 [![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/chainlit-ollama-interactive-agent)
-[![Live Demo](https://img.shields.io/badge/Chainlit-FF6B35?style=for-the-badge&logo=chainlit&logoColor=white)](https://github.com/And3m/chainlit-ollama-interactive-agent)
+[![Live Demo](https://img.shields.io/badge/Chainlit-FF6B35?style=for-the-badge&logo=chain&logoColor=white)](https://github.com/And3m/chainlit-ollama-interactive-agent)
 
 **🎯 Project Highlights:**
 - 💬 **Interactive Chat Interface** with 2048-token responses
@@ -294,7 +294,7 @@
 
 ### 🤜 LangChain Playbook
 [![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/Langchain_playbook)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/And3m/Langchain_playbook)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://github.com/And3m/Langchain_playbook)
 
 **🎯 Project Highlights:**
 - 📚 **Comprehensive Tutorials** from basics to advanced
@@ -312,7 +312,7 @@
 
 ### 🏠 AI Engineering Hub
 [![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/ai-engineering-hub)
-[![AI](https://img.shields.io/badge/AI%20Engineering-4A90E2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://github.com/And3m/ai-engineering-hub)
+[![AI](https://img.shields.io/badge/AI%20Engineering-4A90E2?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/And3m/ai-engineering-hub)
 
 **🎯 Project Highlights:**
 - 📈 **In-depth LLM Tutorials** and implementations
