@@ -1,36 +1,53 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vijay%20Andem&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20%7C%20Generative%20AI%20Architect%20%7C%20Business%20Intelligence%20Professional&descAlignY=55&descAlign=62" width="100%" />
+<!-- Responsive Animated Header Banner -->
+<picture>
+  <source media="(max-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vijay%20Andem&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20AI%20Architect&descAlignY=65&descAlign=50&descSize=16">
+  <source media="(max-width: 1024px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vijay%20Andem&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20%7C%20Generative%20AI%20Architect&descAlignY=60&descAlign=50&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vijay%20Andem&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20%7C%20Generative%20AI%20Architect%20%7C%20Business%20Intelligence%20Professional&descAlignY=60&descAlign=50&descSize=20" width="100%" alt="Header Banner" />
+</picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=🚀+Transforming+Data+into+Actionable+Insights;📊+Power+BI+%7C+Tableau+%7C+Python+Expert;🤖+Building+AI+Agents+%26+LLM+Applications;📈+Creating+Interactive+Dashboards;🔬+Data+Science+%26+Machine+Learning+Specialist;💡+Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+<!-- Responsive Typing Animation -->
+<div style="width: 100%; max-width: 1000px; margin: 0 auto;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&height=60&lines=🚀+Transforming+Data+into+Actionable+Insights;📊+Power+BI+%7C+Tableau+%7C+Python+Expert;🤖+Building+AI+Agents+%26+LLM+Applications;📈+Creating+Interactive+Dashboards;🔬+Data+Science+%26+Machine+Learning+Specialist;💡+Always+Learning%2C+Always+Growing!" alt="Typing SVG" style="width: 100%; max-width: 100%;" />
+</div>
 
-<!-- Social Badges with Animations -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/vijay-andem-b2092223/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<!-- Responsive Social Badges -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; padding: 10px;">
+  <a href="https://www.linkedin.com/in/vijay-andem-b2092223/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 4px;" />
   </a>
-  <a href="mailto:vijayandem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:vijayandem@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 4px;" />
   </a>
-  <a href="https://github.com/And3m">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/And3m" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;" />
   </a>
-  <a href="https://x.com/vjandem">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://x.com/vjandem" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin: 4px;" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/📍_India-FF6B6B?style=for-the-badge&labelColor=FF6B6B" alt="Location" />
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📍_India-FF6B6B?style=for-the-badge&labelColor=FF6B6B" alt="Location" style="margin: 4px;" />
   </a>
 </div>
 
 <br>
 
-<!-- Quick Stats -->
-[![Profile Views](https://komarev.com/ghpvc/?username=And3m&label=Profile%20Views&color=brightgreen&style=flat-square)](https://github.com/And3m)
-[![Years Badge](https://badges.pufler.dev/years/And3m)](https://github.com/And3m)
-[![Repos Badge](https://badges.pufler.dev/repos/And3m)](https://github.com/And3m?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/And3m)](https://github.com/And3m)
+<!-- Responsive Quick Stats -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <a href="https://github.com/And3m">
+    <img src="https://komarev.com/ghpvc/?username=And3m&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/And3m">
+    <img src="https://badges.pufler.dev/years/And3m" alt="Years Badge" />
+  </a>
+  <a href="https://github.com/And3m?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/And3m" alt="Repos Badge" />
+  </a>
+  <a href="https://github.com/And3m">
+    <img src="https://badges.pufler.dev/commits/monthly/And3m" alt="Commits Badge" />
+  </a>
+</div>
 
 </div>
 
