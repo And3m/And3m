@@ -12,10 +12,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
       - name: Generate Snake Game from GitHub contribution grid
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: And3m
           outputs: |

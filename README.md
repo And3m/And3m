@@ -62,17 +62,17 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="80" height="80">
+📊
 <br><strong>📊 Data Analytics</strong>
 <br><em>Power BI • Tableau • Python</em>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="80" height="80">
+🤖
 <br><strong>🤖 Generative AI & LLMs</strong>
 <br><em>LangChain • RAG • AI Agents</em>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="80" height="80">
+💡
 <br><strong>💡 Business Intelligence</strong>
 <br><em>Insights • Strategy • Solutions</em>
 </td>
@@ -341,34 +341,34 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="50" height="50">
+📊
 <h4>📊 Data Visualization</h4>
 Creating compelling, interactive dashboards that tell powerful data stories using Power BI, Tableau, and Streamlit
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="50" height="50">
+🔍
 <h4>🔍 Advanced Analytics</h4>
 Extracting meaningful insights from complex datasets using statistical analysis and pattern recognition
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" height="50">
+💡
 <h4>💡 Business Intelligence</h4>
 Translating data findings into strategic recommendations and actionable business insights
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="50" height="50">
+🤖
 <h4>🤖 Generative AI Solutions</h4>
 Designing and deploying LLM-powered applications, RAG systems, and autonomous AI agents
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="50" height="50">
+📋
 <h4>📋 Automated Reporting</h4>
 Building scalable reporting solutions and executive-level dashboard automation
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" width="50" height="50">
+🗣️
 <h4>🗣️ Communication</h4>
 Bridging technical and business teams through clear, compelling data presentations
 </td>
@@ -457,17 +457,17 @@ Soft Skills:
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" height="60">
+💻
 <br><strong>Data Analytics</strong>
 <br>📈 Dashboards Created
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="60" height="60">
+🧠
 <br><strong>Gen-AI Projects</strong>
 <br>🤖 Intelligent Solutions
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="60" height="60">
+📊
 <br><strong>Business Impact</strong>
 <br>💡 Data-Driven Insights
 </td>
@@ -564,17 +564,17 @@ YAML         22 mins         ░░░░░░░░░░░░░░░░░
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" height="60">
+🤝
 <br><strong>Collaboration</strong>
 <br><em>Open to Projects</em>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="60" height="60">
+🔎
 <br><strong>Innovation</strong>
 <br><em>AI/ML Solutions</em>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" height="60">
+🚀
 <br><strong>Growth</strong>
 <br><em>Continuous Learning</em>
 </td>

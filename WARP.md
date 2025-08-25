@@ -105,7 +105,7 @@ When updating the README:
 5. Update GitHub stats widgets if needed
 
 ### Image and Badge URLs
-- Animated emojis: `https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/`
+- Emojis: Now using native Unicode emojis for better compatibility
 - Shields.io badges: `https://img.shields.io/badge/`
 - GitHub stats: `https://github-readme-stats.vercel.app/api`
 - Streak stats: `https://streak-stats.demolab.com/`
