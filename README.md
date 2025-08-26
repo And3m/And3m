@@ -109,7 +109,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-2C5282?style=for-the-badge&logo=apache&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
@@ -125,7 +124,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -145,7 +143,6 @@
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-00D4FF?style=for-the-badge&logo=database&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=p&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-0F8B8D?style=for-the-badge&logo=database&logoColor=white)
 
 </div>
 
@@ -157,8 +154,6 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-E97627?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
@@ -437,17 +432,19 @@ Soft Skills:
 
 <br>
 
-<!-- Activity Graph -->
-[![Vijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=And3m&theme=tokyo-night&hide_border=true)](https://github.com/And3m)
-
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=And3m&theme=tokyonight)](https://git.io/streak-stats)
+<!-- GitHub Streak -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=And3m&theme=tokyonight" alt="GitHub Streak" />
+</a>
 
 <!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=And3m&theme=tokyonight&column=8&margin-w=15&margin-h=15)](https://github.com/And3m)
+<a href="https://github.com/And3m">
+  <img src="https://github-profile-trophy.vercel.app/?username=And3m&theme=tokyonight&column=8&margin-w=15&margin-h=15" alt="Trophies" />
+</a>
 
 </div>
 
@@ -539,6 +536,9 @@ I'm always excited to collaborate on data-driven projects, discuss analytics str
 ---
 
 *💡 Always learning, always growing, always analyzing!* 🚀
+
+<!-- Snake animation -->
+![Snake animation](https://github.com/And3m/And3m/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
