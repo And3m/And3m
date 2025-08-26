@@ -191,6 +191,83 @@
 
 <div align="center">
 
+### 🤖 **AI/ML & LLM Applications**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 MCP Data Analysis Toolkit
+[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/mcp-data-analysis-toolkit)
+[![MCP](https://img.shields.io/badge/MCP-4A90E2?style=for-the-badge&logo=protocol&logoColor=white)](https://github.com/And3m/mcp-data-analysis-toolkit)
+
+**🎯 Project Highlights:**
+- 🔌 **Model Context Protocol** implementation for data analysis
+- 🤖 **AI Agent Integration** with data processing capabilities
+- 📊 **Automated Analytics** through intelligent tool discovery
+- 🛠️ **Extensible Framework** for custom data analysis workflows
+
+**💻 Tech Stack:**
+`Python` `MCP` `AI Agents` `Data Analysis` `Protocol Buffers` `LLMs`
+
+</td>
+<td width="50%">
+
+### 🚀 Interactive AI Chat Agent
+[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/chainlit-ollama-interactive-agent)
+[![Live Demo](https://img.shields.io/badge/Chainlit-FF6B35?style=for-the-badge&logo=chain&logoColor=white)](https://github.com/And3m/chainlit-ollama-interactive-agent)
+
+**🎯 Project Highlights:**
+- 💬 **Interactive Chat Interface** with 2048-token responses
+- 📈 **Real-time Monitoring** and system analytics
+- 🔍 **Advanced Commands** (/status, /metrics, /help)
+- 🔒 **100% Local & Private** - no external APIs required
+
+**💻 Tech Stack:**
+`Python` `Chainlit` `Ollama` `Llama 3.2 3B` `psutil` `Real-time Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤜 LangChain Playbook
+[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/Langchain_playbook)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://github.com/And3m/Langchain_playbook)
+
+**🎯 Project Highlights:**
+- 📚 **Comprehensive Tutorials** from basics to advanced
+- 🕰️ **Hands-on Learning** with practical examples
+- 🏠 **Real-world Projects** - chatbots, RAG systems, agents
+- 📄 **Structured Learning Path** for all skill levels
+
+**💻 Tech Stack:**
+`Python` `LangChain` `OpenAI` `Anthropic` `RAG` `Vector Databases`
+
+</td>
+<td width="50%">
+
+### 🏠 AI Engineering Hub
+[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/ai-engineering-hub)
+[![AI](https://img.shields.io/badge/AI%20Engineering-4A90E2?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/And3m/ai-engineering-hub)
+
+**🎯 Project Highlights:**
+- 📈 **In-depth LLM Tutorials** and implementations
+- 🤖 **Real-world AI Agents** with practical applications
+- 🔍 **RAG Systems** and advanced retrieval techniques
+- 👥 **Community-driven** learning and contributions
+
+**💻 Tech Stack:**
+`LLMs` `RAG` `AI Agents` `Machine Learning` `Deep Learning`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
 ### 🎯 **Data Analytics & Visualization Projects**
 
 </div>
@@ -266,145 +343,9 @@
 </tr>
 </table>
 
-<div align="center">
-
-### 🤖 **AI/ML & LLM Applications**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Interactive AI Chat Agent
-[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/chainlit-ollama-interactive-agent)
-[![Live Demo](https://img.shields.io/badge/Chainlit-FF6B35?style=for-the-badge&logo=chain&logoColor=white)](https://github.com/And3m/chainlit-ollama-interactive-agent)
-
-**🎯 Project Highlights:**
-- 💬 **Interactive Chat Interface** with 2048-token responses
-- 📈 **Real-time Monitoring** and system analytics
-- 🔍 **Advanced Commands** (/status, /metrics, /help)
-- 🔒 **100% Local & Private** - no external APIs required
-
-**💻 Tech Stack:**
-`Python` `Chainlit` `Ollama` `Llama 3.2 3B` `psutil` `Real-time Analytics`
-
-</td>
-<td width="50%">
-
-### 🤜 LangChain Playbook
-[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/Langchain_playbook)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://github.com/And3m/Langchain_playbook)
-
-**🎯 Project Highlights:**
-- 📚 **Comprehensive Tutorials** from basics to advanced
-- 🕰️ **Hands-on Learning** with practical examples
-- 🏠 **Real-world Projects** - chatbots, RAG systems, agents
-- 📄 **Structured Learning Path** for all skill levels
-
-**💻 Tech Stack:**
-`Python` `LangChain` `OpenAI` `Anthropic` `RAG` `Vector Databases`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏠 AI Engineering Hub
-[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/And3m/ai-engineering-hub)
-[![AI](https://img.shields.io/badge/AI%20Engineering-4A90E2?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/And3m/ai-engineering-hub)
-
-**🎯 Project Highlights:**
-- 📈 **In-depth LLM Tutorials** and implementations
-- 🤖 **Real-world AI Agents** with practical applications
-- 🔍 **RAG Systems** and advanced retrieval techniques
-- 👥 **Community-driven** learning and contributions
-
-**💻 Tech Stack:**
-`LLMs` `RAG` `AI Agents` `Machine Learning` `Deep Learning`
-
-</td>
-<td width="50%">
-
-<!-- Future AI/ML project slot -->
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🎯 What I Bring to the Table
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-📊
-<h4>📊 Data Visualization</h4>
-Creating compelling, interactive dashboards that tell powerful data stories using Power BI, Tableau, and Streamlit
-</td>
-<td align="center" width="33%">
-🔍
-<h4>🔍 Advanced Analytics</h4>
-Extracting meaningful insights from complex datasets using statistical analysis and pattern recognition
-</td>
-<td align="center" width="33%">
-💡
-<h4>💡 Business Intelligence</h4>
-Translating data findings into strategic recommendations and actionable business insights
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-🤖
-<h4>🤖 Generative AI Solutions</h4>
-Designing and deploying LLM-powered applications, RAG systems, and autonomous AI agents
-</td>
-<td align="center" width="33%">
-📋
-<h4>📋 Automated Reporting</h4>
-Building scalable reporting solutions and executive-level dashboard automation
-</td>
-<td align="center" width="33%">
-🗣️
-<h4>🗣️ Communication</h4>
-Bridging technical and business teams through clear, compelling data presentations
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🌟 Core Competencies
-
-```yaml
-Technical Skills:
-  - Data Storytelling: "Transforming numbers into narratives"
-  - Dashboard Design: "User-centric, interactive visualizations"
-  - Statistical Analysis: "Pattern recognition and trend analysis"
-  - ETL Processes: "Data extraction, transformation, and loading"
-  - Database Management: "SQL optimization and data modeling"
-  - Web App Development: "Streamlit-based analytics applications"
-  - Generative AI Architecture: "LLM applications, RAG systems, and autonomous agents"
-  - Prompt Engineering: "Optimizing AI model interactions and responses"
-  - Local AI Deployment: "Privacy-focused, on-premise AI solutions"
-
-Soft Skills:
-  - Problem Solving: "Data-driven solution architecture"
-  - Critical Thinking: "Analytical approach to business challenges"
-  - Stakeholder Management: "Cross-functional collaboration"
-  - Presentation Skills: "Technical concepts for diverse audiences"
-  - Project Management: "End-to-end analytics project delivery"
-  - Innovation Mindset: "Exploring cutting-edge AI technologies"
-```
-
----
-
-## 🏆 Achievements & Certifications
+## 🌟 Core Competencies & Achievements
 
 <div align="center">
 
@@ -445,6 +386,21 @@ Soft Skills:
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-Advanced-yellow?style=flat-square)
 
 </div>
+
+```yaml
+Technical Skills:
+  - Data Storytelling: "Transforming numbers into narratives"
+  - Dashboard Design: "User-centric, interactive visualizations"
+  - Statistical Analysis: "Pattern recognition and trend analysis"
+  - Database Management: "SQL optimization and data modeling"
+  - Generative AI Architecture: "LLM applications, RAG systems, and autonomous agents"
+  - Local AI Deployment: "Privacy-focused, on-premise AI solutions"
+
+Soft Skills:
+  - Problem Solving: "Data-driven solution architecture"
+  - Stakeholder Management: "Cross-functional collaboration"
+  - Project Management: "End-to-end analytics project delivery"
+```
 
 ---
 
@@ -561,28 +517,6 @@ YAML         22 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-🤝
-<br><strong>Collaboration</strong>
-<br><em>Open to Projects</em>
-</td>
-<td align="center">
-🔎
-<br><strong>Innovation</strong>
-<br><em>AI/ML Solutions</em>
-</td>
-<td align="center">
-🚀
-<br><strong>Growth</strong>
-<br><em>Continuous Learning</em>
-</td>
-</tr>
-</table>
-
-<br>
-
 ### 💬 "Data is the new oil, insights are the refined fuel, and AI is the engine that powers intelligent decisions."
 
 I'm always excited to collaborate on data-driven projects, discuss analytics strategies, explore AI/ML innovations, or dive into opportunities in business intelligence. Let's connect and transform data into impactful solutions together!
@@ -598,72 +532,6 @@ I'm always excited to collaborate on data-driven projects, discuss analytics str
 
 **📍 Based in India** | **🌐 Open to Remote Opportunities** | **💼 Available for Freelance Projects**
 
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Current Focus & Future Goals
-
-<table>
-<tr>
-<td align="center" width="50%">
-<h4>🔍 Currently Exploring</h4>
-<br>
-🚀 Advanced RAG architectures<br>
-🤖 Multi-agent AI systems<br>
-📊 Real-time data streaming analytics<br>
-🧠 Neural network optimization<br>
-☁️ Cloud-native AI deployments
-</td>
-<td align="center" width="50%">
-<h4>🎯 2024 Goals</h4>
-<br>
-✅ Master advanced LLM techniques<br>
-✅ Build 10+ AI-powered applications<br>
-✅ Contribute to major open-source projects<br>
-✅ Obtain cloud certifications (AWS/Azure)<br>
-✅ Launch AI consulting services
-</td>
-</tr>
-</table>
-
-<br>
-
-### ⚡ Fun Facts About Me
-
-```python
-class VijayAndem:
-    def __init__(self):
-        self.role = "Data Scientist & AI Engineer"
-        self.languages = ["Python", "SQL", "R", "JavaScript"]
-        self.current_focus = "Building intelligent AI agents"
-        self.fun_fact = "I can turn coffee into code and data into insights!"
-        
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
-        
-me = VijayAndem()
-me.say_hi()
-```
-
-<br>
-
-### 💭 Quote of the Day
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br>
-
-### ⭐ Support My Work
-
-If you find my projects helpful or interesting, consider:
-
-[![Star](https://img.shields.io/badge/⭐_Star_My_Repos-FFF000?style=for-the-badge)](https://github.com/And3m?tab=repositories)
-[![Follow](https://img.shields.io/badge/👤_Follow_Me-1DA1F2?style=for-the-badge)](https://github.com/And3m)
-[![Fork](https://img.shields.io/badge/🍴_Fork_Projects-00D1B2?style=for-the-badge)](https://github.com/And3m?tab=repositories)
-
 <br>
 
 **✨ "Turning data into stories, one visualization at a time" ✨**
@@ -671,9 +539,6 @@ If you find my projects helpful or interesting, consider:
 ---
 
 *💡 Always learning, always growing, always analyzing!* 🚀
-
-<!-- Snake animation -->
-![Snake animation](https://github.com/And3m/And3m/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
