@@ -2,9 +2,9 @@
 
 <!-- Responsive Animated Header Banner -->
 <picture>
-  <source media="(max-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vijay%20Andem&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20AI%20Architect&descAlignY=65&descAlign=50&descSize=16">
-  <source media="(max-width: 1024px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vijay%20Andem&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20%7C%20Generative%20AI%20Architect&descAlignY=60&descAlign=50&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vijay%20Andem&fontSize=85&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20%7C%20Generative%20AI%20Architect%20%7C%20Business%20Intelligence%20Professional&descAlignY=60&descAlign=50&descSize=20" width="100%" alt="Header Banner" />
+  <source media="(max-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vijay%20Andem&fontSize=35&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20AI%20Architect&descAlignY=65&descAlign=50&descSize=14">
+  <source media="(max-width: 1024px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vijay%20Andem&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20%7C%20Generative%20AI%20Architect&descAlignY=60&descAlign=50&descSize=16">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vijay%20Andem&fontSize=65&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20%7C%20Generative%20AI%20Architect%20%7C%20Business%20Intelligence%20Professional&descAlignY=60&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
 </picture>
 
 <!-- Responsive Typing Animation -->
