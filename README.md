@@ -462,6 +462,12 @@ YAML         22 mins         ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+### 📂 Repositories I Worked Yesterday
+
+<!--START_SECTION:yesterday_repos-->
+🔹 No repositories worked on yesterday yet
+<!--END_SECTION:yesterday_repos-->
+
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
