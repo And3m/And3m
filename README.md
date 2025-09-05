@@ -465,7 +465,7 @@ YAML         22 mins         ░░░░░░░░░░░░░░░░░
 ### 📂 Repositories I Worked Yesterday
 
 <!--START_SECTION:yesterday_repos-->
-🔹 No repositories worked on yesterday yet
+🔹 No repositories worked on yesterday
 <!--END_SECTION:yesterday_repos-->
 
 ### 🔥 Recent Activity
