@@ -12,6 +12,24 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r .github/scripts/requirements.txt
+      
+      - name: Update Yesterday's Repositories
+        run: |
+          python .github/scripts/yesterday_repos.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: ${{ github.actor }}
+        continue-on-error: true
+      
       - name: Generate GitHub Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
