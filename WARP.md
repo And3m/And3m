@@ -4,137 +4,123 @@ This file provides guidance to WARP (warp.dev) when working with code in this re
 
 ## Repository Overview
 
-This is a GitHub profile repository (And3m/And3m) that serves as a personal portfolio and professional showcase for Vijay Andem. The repository contains a single README.md file that displays on the GitHub profile page.
+This is a GitHub profile repository (And3m/And3m) that serves as a personal portfolio and professional showcase for Vijay Andem. The repository contains a README.md that displays on the GitHub profile page, plus GitHub Actions workflows for dynamic content generation.
 
 ## Repository Structure
 
 ```
 And3m/
-├── README.md    # Main GitHub profile content (421 lines)
-└── .git/        # Git version control
+├── README.md                              # Main GitHub profile content (~144 lines)
+├── WARP.md                                # Editor guidance (this file)
+├── .github/
+│   └── workflows/
+│       ├── snake.yml                      # Snake animation generator (every 12h)
+│       ├── 3d-contrib.yml                 # 3D contribution calendar (daily)
+│       └── update-readme.yml              # GitHub activity updater (daily)
+└── profile-3d-contrib/                    # Generated 3D calendar SVGs (auto-committed)
 ```
 
 ## Common Commands
 
 ### Viewing Content
 ```bash
-# View the current README content
 cat README.md
-
-# Check git status
 git status
-
-# View recent changes
 git --no-pager log --oneline -10
 git --no-pager diff HEAD~1
 ```
 
 ### Making Updates
 ```bash
-# Stage changes
 git add README.md
-
-# Commit with descriptive message
-git commit -m "✨ Update [section] with [description]"
-
-# Push to GitHub (updates profile immediately)
+git commit -m "update: [section] - [description]"
 git push origin main
-```
-
-### Preview Changes
-```bash
-# Preview markdown in terminal (if glow is installed)
-glow README.md
-
-# Or open in default markdown viewer
-start README.md
 ```
 
 ## Content Architecture
 
-The README.md is structured as a comprehensive portfolio with the following major sections:
+The README.md uses 8 lean sections:
 
-1. **Header Section (Lines 1-14)**: Professional title, animated typing SVG, and social media badges
-2. **About Me (Lines 18-61)**: Three-pillar approach (Data Analytics, AI/ML Engineering, Business Intelligence)
-3. **Tech Stack (Lines 64-101)**: Organized by category - Data Analysis, AI/ML, Development
-4. **Featured Projects (Lines 104-248)**: Two main categories:
-   - Data Analytics & Visualization Projects (4 projects)
-   - AI/ML & LLM Applications (3 projects)
-5. **Skills & Competencies (Lines 251-318)**: Core competencies in YAML format
-6. **GitHub Analytics (Lines 321-359)**: Stats widgets and streak counter
-7. **Contact Section (Lines 362-421)**: Call-to-action and contact information
+1. **Header Banner (Lines 1-8)**: Responsive capsule-render with `<picture>` element for mobile/tablet/desktop
+2. **Typing Animation (Lines 10-11)**: readme-typing-svg via demolab.com (3 rotating lines)
+3. **Bio + Social Links (Lines 13-22)**: One-line bio, 4 flat-square badges (LinkedIn, Email, X, Views)
+4. **About Me (Lines 26-30)**: Two narrative paragraphs, no tables or bullet lists
+5. **Tools & Technologies (Lines 34-49)**: skillicons.dev image + 6 supplemental shields.io badges
+6. **Featured Projects (Lines 53-92)**: 5 projects in vertical card layout (mobile-friendly)
+7. **GitHub Analytics (Lines 95-128)**: Stats, streak, top langs, 3D contrib -- all with dark/light mode
+8. **Footer (Lines 130-143)**: Snake animation (dark/light) + capsule-render wave
 
-## Key Content Elements
+## Key Design Decisions
 
-### Project Showcase Format
-Each project follows this structure:
-- Project title with emoji
-- Repository and live demo badges
-- Project highlights (4-5 bullet points)
-- Tech stack used
+### Theme: "Midnight Blue"
+- Stats widgets: `github_dark_dimmed` theme
+- Streak: `github-dark-blue` theme
+- Header/footer gradient: `customColorList=2,3,12,19,21`
+- Typing animation color: `#58A6FF`
+- All widgets support dark/light mode via `<picture>` + `prefers-color-scheme`
 
-### Visual Elements
-- Animated typing SVG for dynamic header
-- GitHub stats widgets (theme: tokyonight)
-- Animated emoji images from Fluent Emoji collection
-- Profile view counter
-- Streak statistics
+### Badge Strategy
+- ~20 total badges (down from 86+)
+- Core tools via skillicons.dev single image
+- Domain-specific tools (Power BI, Tableau, etc.) via shields.io `flat-square` style
+- Social links appear once (in header area only)
 
-### External Links
-- LinkedIn: https://www.linkedin.com/in/vijay-andem-b2092223/
-- GitHub: https://github.com/And3m
-- Email: vijayandem@gmail.com
-- X (Twitter): https://x.com/vjandem
+### Project Layout
+- Vertical card format (stacks naturally on mobile)
+- Each project: linked `###` heading + one-sentence description + inline code tech tags
+- 5 curated projects covering AI/ML and data analytics
 
-## Development Guidelines
+## External Dependencies
 
-### Commit Message Convention
-The repository uses emoji-prefixed commit messages:
-- ✨ for enhancements and new features
-- 🐛 for bug fixes
-- 📝 for documentation updates
-- 🎨 for styling/formatting changes
-- ♻️ for refactoring
+| Service | Purpose | URL |
+|---------|---------|-----|
+| capsule-render | Header/footer waves | capsule-render.vercel.app |
+| readme-typing-svg | Typing animation | readme-typing-svg.demolab.com |
+| shields.io | Supplemental badges | img.shields.io |
+| komarev | Profile views | komarev.com/ghpvc |
+| github-readme-stats | Stats + languages cards | github-readme-stats.vercel.app |
+| streak-stats | Streak card | streak-stats.demolab.com |
+| skillicons.dev | Tech stack icons | skillicons.dev |
+| Platane/snk | Snake animation | GitHub Action (output branch) |
+| github-profile-3d-contrib | 3D calendar | GitHub Action (profile-3d-contrib/) |
 
-### Content Update Patterns
-When updating the README:
-1. Maintain consistent formatting with existing sections
-2. Use similar emoji patterns for visual consistency
-3. Keep badge styles uniform (for-the-badge style)
-4. Preserve the three-column layout in table sections
-5. Update GitHub stats widgets if needed
+## GitHub Actions Workflows
 
-### Image and Badge URLs
-- Emojis: Now using native Unicode emojis for better compatibility
-- Shields.io badges: `https://img.shields.io/badge/`
-- GitHub stats: `https://github-readme-stats.vercel.app/api`
-- Streak stats: `https://streak-stats.demolab.com/`
+### snake.yml
+- Generates contribution grid snake animation (light + dark variants)
+- Runs every 12 hours + on push to main
+- Outputs to `output` branch via ghaction-github-pages
 
-## Important Considerations
+### 3d-contrib.yml
+- Generates 3D contribution calendar SVGs
+- Runs daily at 1 AM UTC
+- Commits SVGs to `profile-3d-contrib/` directory on main branch
 
-1. **Profile Visibility**: Changes to README.md are immediately visible on the GitHub profile after pushing
-2. **Image Loading**: All images are externally hosted; ensure URLs remain valid
-3. **Responsive Design**: Tables and layouts should work on various screen sizes
-4. **Professional Tone**: Maintain the balance between technical expertise and approachability
-5. **Project Updates**: When adding new projects, follow the existing format exactly
+### update-readme.yml
+- Updates README with recent GitHub activity
+- Runs daily at midnight UTC
+- Uses jamesgeorge007/github-activity-readme
+
+## Commit Message Convention
+
+- `feat:` for new sections or features
+- `fix:` for bug fixes and broken link repairs
+- `update:` for content updates
+- `chore:` for maintenance and automated updates
+- `style:` for formatting and visual changes
 
 ## Quick Tasks
 
 ### Add a New Project
-1. Choose appropriate section (Data Analytics or AI/ML)
-2. Copy existing project table cell structure
-3. Update title, badges, highlights, and tech stack
-4. Maintain consistent emoji usage
+1. Add a new `### [Project Name](repo-url)` block in the Featured Projects section
+2. Write a one-sentence description
+3. Add inline code tech tags
+4. Keep to 5 projects max (remove least relevant if needed)
 
 ### Update Tech Stack
-1. Navigate to lines 64-101
-2. Add new badge using shields.io format
-3. Maintain category organization
-
-### Refresh GitHub Stats
-1. Stats auto-update but can be forced by adding `&cache_seconds=86400` to URLs
-2. Verify theme consistency (tokyonight)
+1. Modify the skillicons.dev URL parameter list for core tools
+2. Add/remove shields.io flat-square badges for domain-specific tools
 
 ### Update Social Links
-1. Update both header badges (lines 8-12) and footer section (lines 394-397)
-2. Ensure all links are working and consistent
+1. Social links appear once in the header area (lines 17-20)
+2. Update URLs there only -- no other locations to sync
