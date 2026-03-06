@@ -52,6 +52,14 @@ I focus on practical applications -- from interactive Streamlit dashboards for s
 
 ## Featured Projects
 
+### [GenAI for Analysts](https://github.com/And3m/genai-for-analysts)
+
+10-project portfolio demonstrating practical generative AI applications from a business analytics perspective -- covering LLM foundations, RAG systems, agentic workflows, fine-tuning, evaluation dashboards, and multimodal document intelligence.
+
+`Python` `LangChain` `LangGraph` `LlamaIndex` `ChromaDB` `Streamlit` `RAG` `AI Agents`
+
+---
+
 ### [MCP Data Analysis Toolkit](https://github.com/And3m/mcp-data-analysis-toolkit)
 
 Model Context Protocol server for AI-powered data analysis. Enables LLM agents to discover and execute data processing tools through a standardized protocol interface.
