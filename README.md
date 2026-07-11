@@ -100,6 +100,12 @@ Comprehensive tutorial collection covering LangChain fundamentals through advanc
 
 ---
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
