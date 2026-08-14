@@ -5,10 +5,6 @@ on:
     - cron: "0 1 * * *"
   workflow_dispatch:
 
-concurrency:
-  group: 3d-contrib
-  cancel-in-progress: true
-
 jobs:
   contrib:
     runs-on: ubuntu-latest
@@ -23,21 +19,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: And3m
 
-      # The action emits all 10 theme variants (~2MB). The README uses two.
-      # Without this prune, the other eight get re-committed every single day.
-      - name: Prune unused theme variants
-        run: |
-          find profile-3d-contrib -name '*.svg' \
-            ! -name 'profile-night-rainbow.svg' \
-            ! -name 'profile-green-animate.svg' \
-            -delete
-          ls -la profile-3d-contrib
-
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "chore: update 3D contribution calendar" || exit 0
-          git pull --rebase
           git push

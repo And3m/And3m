@@ -1,45 +1,23 @@
-<!-- MAINTENANCE NOTES (invisible on the rendered profile)
-  1. NO COMMAS in any srcset= URL. srcset is a comma-separated candidate list, so
-     capsule-render's customColorList=2,3,12,19,21 gets truncated to "...=2" and the
-     banner breaks on mobile. Use the single-value customColorList=12 (also stops the
-     multi-value list picking a random gradient on every page load).
-  2. Snake SVGs must come from raw.githubusercontent.com/.../output/, never
-     github.com/.../blob/output/ -- blob URLs serve HTML and render broken.
-  3. 3D calendar: only profile-night-rainbow.svg and profile-green-animate.svg are
-     kept. The prune step in 3d-contrib.yml deletes the other 8 daily, so changing
-     the theme here without changing that filter 404s the image.
-  4. About Me / Experience / Education mirror the resume -- update together.
-     Only badge tools the resume or a linked repo backs.
-  5. Social links live in two places: header badge row and footer CTA.
-  6. Experience entries use explicit <br>; a bare newline collapses in some renderers.
-  7. update-readme.yml was deleted -- it needed activity marker comments that were
-     never in this file, so it failed daily. Re-add both together or neither.
-  8. Blank stats/streak cards are upstream rate-limiting, not a config error.
-  Theme: stats github_dark_dimmed | streak github-dark-blue | typing #58A6FF
--->
-
 <div align="center">
 
-<!-- Responsive Header Banner. NOTE: no commas in these URLs (see srcset note above). -->
+<!-- Responsive Header Banner -->
 <picture>
-  <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=header&text=Vijay%20Kumar%20Andem&fontSize=34&animation=fadeIn&fontAlignY=38&desc=Senior%20BI%20%26%20Data%20Analyst%20%7C%20GenAI&descAlignY=62&descAlign=50&descSize=16&fontColor=ffffff">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vijay%20Kumar%20Andem&fontSize=50&animation=fadeIn&fontAlignY=37&desc=Senior%20Business%20Intelligence%20%26%20Data%20Analyst%20%7C%20GenAI%20Applications&descAlignY=59&descAlign=50&descSize=18&fontColor=ffffff" width="100%" alt="Vijay Kumar Andem — Senior Business Intelligence and Data Analyst, GenAI Applications" />
+  <source media="(max-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=180&section=header&text=Vijay%20Andem&fontSize=36&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Gen%20AI%20Architect%20%7C%20BI%20Professional&descAlignY=62&descAlign=50&descSize=12&fontColor=ffffff">
+  <source media="(max-width: 1024px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=200&section=header&text=Vijay%20Andem&fontSize=50&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Gen%20AI%20Architect%20%7C%20BI%20Professional&descAlignY=58&descAlign=50&descSize=16&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=200&section=header&text=Vijay%20Andem&fontSize=60&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Gen%20AI%20Architect%20%7C%20BI%20Professional&descAlignY=58&descAlign=50&descSize=18&fontColor=ffffff" width="100%" alt="Header Banner" />
 </picture>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=13+Years+Turning+Data+Into+Decisions;Power+BI+%26+Tableau+for+Enterprise+Reporting;LangChain+%26+RAG+Apps+for+Business+Teams" alt="13 years turning data into decisions; Power BI and Tableau for enterprise reporting; LangChain and RAG apps for business teams" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Agents+and+LLM+Applications;Crafting+Interactive+BI+Dashboards;Turning+Data+Into+Decisions" alt="Typing SVG" />
 
 <br>
 
-**Senior business intelligence and data analyst in Bengaluru, India — 13 years turning operational data into reporting that leadership acts on, now extending into applied generative AI.**
+**Data Analyst and Gen AI Architect based in India, building intelligent systems that turn raw data into business decisions.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-andem-b2092223/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vijayandem.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayandem@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vjandem)
 ![Views](https://komarev.com/ghpvc/?username=And3m&style=flat-square&color=1f6feb)
-
-**Open to senior roles in business analysis, business intelligence, and AI solutions.**
 
 </div>
 
@@ -47,25 +25,9 @@
 
 ## About Me
 
-Thirteen years across FMCG, IT services, and healthcare consulting — Infosys, Indegene, IBM, and CavinKare. SQL and Python for preparation, Power BI and Tableau for delivery, and the stakeholder conversations that decide what is worth measuring at all.
+I work at the intersection of data analytics, business intelligence, and generative AI. My day-to-day involves building Power BI and Tableau dashboards that surface actionable insights, developing LLM-powered applications using LangChain and RAG architectures, and deploying AI agents that automate analytical workflows.
 
-The through-line is automation: over 40% less manual reporting effort at CavinKare, thousands of weekly data pulls replaced with Python at IBM, 50+ automated reports at Infosys. Since 2024 I have extended that into generative AI — LangChain and RAG applications that let non-technical teams query business data in plain language.
-
----
-
-## Experience
-
-**Business Analyst** · CavinKare · Mar 2022 — Dec 2023<br>
-Power BI dashboards for campaign performance, budget tracking, and ROI across the personal care portfolio — cut manual reporting effort by over 40%. Analyzed Nielsen and Kantar syndicated data and presented predictive analysis to C-suite stakeholders.
-
-**Marketing Analyst** · IBM · Jul 2016 — Mar 2022<br>
-Global marketing dashboards in Tableau and Cognos across regions. Replaced thousands of recurring weekly data pulls with Python, and built a self-service query app that let non-technical teams retrieve business data without SQL.
-
-**Reporting Analyst** · Indegene · Aug 2015 — May 2016<br>
-Automated marketing and sales performance reporting for Pfizer North America across large multi-source datasets.
-
-**Data Analyst** · Infosys · Mar 2011 — Aug 2015<br>
-50+ automated reports and dashboards in SQL, VBA, and Advanced Excel for the Income Tax Department's Centralized Processing Centre.
+I focus on practical applications -- from interactive Streamlit dashboards for stakeholder reporting to local-first AI solutions using Ollama for privacy-sensitive environments. I believe in turning complex datasets into clear, compelling stories that drive business decisions.
 
 ---
 
@@ -73,33 +35,16 @@ Automated marketing and sales performance reporting for Pfizer North America acr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sklearn,git,github,vscode,jupyter&perline=8&theme=dark" alt="Python, MySQL, PostgreSQL, scikit-learn, Git, GitHub, VS Code, Jupyter" />
+<img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,mongodb,tensorflow,pytorch,sklearn,docker,aws,git,github,vscode,jupyter&perline=7&theme=dark" alt="Tech Stack" />
 
 <br><br>
 
-**Business Intelligence**
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Generative AI**
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
-
-**Data and Apps**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 </div>
 
@@ -109,7 +54,7 @@ Automated marketing and sales performance reporting for Pfizer North America acr
 
 ### [GenAI for Analysts](https://github.com/And3m/genai-for-analysts)
 
-10-project portfolio demonstrating practical generative AI applications from a business analytics perspective — covering LLM foundations, RAG systems, agentic workflows, fine-tuning, evaluation dashboards, and multimodal document intelligence.
+10-project portfolio demonstrating practical generative AI applications from a business analytics perspective -- covering LLM foundations, RAG systems, agentic workflows, fine-tuning, evaluation dashboards, and multimodal document intelligence.
 
 `Python` `LangChain` `LangGraph` `LlamaIndex` `ChromaDB` `Streamlit` `RAG` `AI Agents`
 
@@ -149,25 +94,9 @@ Interactive Streamlit dashboard with KPIs, trend analysis, and Plotly visualizat
 
 ### [LangChain Playbook](https://github.com/And3m/Langchain_playbook)
 
-Comprehensive tutorial collection covering LangChain fundamentals through advanced implementations — chatbots, RAG systems, agents, and vector database integrations.
+Comprehensive tutorial collection covering LangChain fundamentals through advanced implementations -- chatbots, RAG systems, agents, and vector database integrations.
 
 `Python` `LangChain` `OpenAI` `RAG` `Vector Databases`
-
----
-
-<div align="center">
-
-**More projects, live dashboards, and write-ups → [vijayandem.vercel.app](https://vijayandem.vercel.app)**
-
-</div>
-
----
-
-## Education and Certifications
-
-**BSc in Mathematics, Statistics, and Computer Science** — Kakatiya University
-
-**IBM** — Applied Data Science with Python (L2) · Machine Learning with Python · Data Science Foundations · Data Analysis and Visualization with Python · Deep Learning Essentials &nbsp;|&nbsp; **Optimizely** — X Web Foundations
 
 ---
 
@@ -210,23 +139,13 @@ Comprehensive tutorial collection covering LangChain fundamentals through advanc
 
 <div align="center">
 
-## Let's Talk
-
-Open to senior roles in business analysis, business intelligence, and AI solutions.<br>
-Based in Bengaluru, India — open to remote.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-andem-b2092223/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayandem@gmail.com)
-
-<br>
-
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/And3m/And3m/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/And3m/And3m/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/And3m/And3m/output/github-contribution-grid-snake-dark.svg" alt="Snake animation traversing the GitHub contribution grid" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/And3m/And3m/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/And3m/And3m/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/And3m/And3m/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=80&section=footer" width="100%" />
 
 </div>
