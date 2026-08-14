@@ -37,6 +37,15 @@ THEME ("Midnight Blue")
   Gradient customColorList=2,3,12,19,21
   All widgets support dark/light via <picture> + prefers-color-scheme.
 
+3D CALENDAR -- TWO PLACES MUST AGREE
+  The action emits all 10 theme variants (~2MB); only two are kept:
+    profile-night-rainbow.svg (dark) and profile-green-animate.svg (light).
+  A prune step in 3d-contrib.yml deletes the rest before commit, otherwise
+  the unused eight get re-committed daily.
+  To switch themes you MUST update BOTH the <picture> block below AND the
+  ! -name filters in that prune step, or the file you reference gets deleted
+  on the next run and the calendar 404s.
+
 LINE BREAKS
   Experience entries and the footer CTA use explicit <br>. A bare newline collapses
   in some renderers (VS Code preview) and turns the entries into run-on paragraphs.
