@@ -1,3 +1,7 @@
+# Outputs both SVGs to the `output` branch.
+# README must reference them via raw.githubusercontent.com/And3m/And3m/output/...
+# NOT github.com/And3m/And3m/blob/output/... -- blob URLs serve an HTML page and
+# render as a broken image.
 name: Generate Snake Animation
 
 on:

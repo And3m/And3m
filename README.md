@@ -1,3 +1,67 @@
+<!--
+================================================================================
+MAINTENANCE NOTES (not rendered on the profile page)
+
+This is the And3m/And3m special repo -- this file IS the public GitHub profile.
+Keep maintenance notes in comments like this one; anything outside a comment is
+visible to recruiters.
+
+SOURCE OF TRUTH
+  About Me / Experience / Education mirror the resume (Vijay_Kumar_Andem_Resume,
+  not stored in this repo). Update those three sections together when the resume
+  changes -- do not let the claims drift apart.
+  Only badge tools the resume or a linked repo actually backs. No aspirational icons.
+
+HEADER BANNER
+  Name and tagline live in the text= and desc= params of ALL THREE capsule-render
+  URLs below (mobile / tablet / desktop fallback). Change all three, and keep the
+  <img alt> in sync -- the name exists only inside the image, so alt text is what
+  screen readers and search indexers see.
+  Current tagline: "Senior Business Intelligence & Data Analyst | GenAI Applications"
+
+SNAKE ANIMATION (footer)
+  Must use raw.githubusercontent.com/And3m/And3m/output/...
+  NOT github.com/And3m/And3m/blob/output/... -- blob URLs return an HTML page and
+  render as a broken image. This was a live bug; do not "simplify" it back.
+
+SOCIAL LINKS -- two locations must stay in sync
+  1. Header badge row (flat-square: LinkedIn, Portfolio, Email, X, Views)
+  2. Footer "Let's Talk" CTA (for-the-badge: LinkedIn, Email)
+
+PROJECTS
+  6 max, vertical card format: linked ### heading + one-sentence description +
+  inline code tech tags. Overflow goes to the portfolio site.
+
+THEME ("Midnight Blue")
+  Stats github_dark_dimmed | streak github-dark-blue | typing #58A6FF
+  Gradient customColorList=2,3,12,19,21
+  All widgets support dark/light via <picture> + prefers-color-scheme.
+
+LINE BREAKS
+  Experience entries and the footer CTA use explicit <br>. A bare newline collapses
+  in some renderers (VS Code preview) and turns the entries into run-on paragraphs.
+
+WORKFLOWS (.github/workflows/)
+  snake.yml      -- contribution snake, every 12h + push to main (paths-ignore set
+                    so the 3d-contrib bot commit doesn't retrigger it)
+  3d-contrib.yml -- 3D calendar, daily 1AM UTC, commits to profile-3d-contrib/
+  REMOVED: update-readme.yml. It used jamesgeorge007/github-activity-readme, which
+  requires START_SECTION:activity and END_SECTION:activity marker comments in this
+  file (HTML comment delimiters around each -- they cannot be written literally
+  here, since a nested close-comment would terminate this block early).
+  Those markers were never present, so it failed on every daily run. If you want it
+  back, add the markers AND the workflow together -- one without the other fails.
+
+KNOWN FLAKINESS
+  github-readme-stats and streak-stats run on shared public instances that
+  rate-limit (429) under load. Blank cards for a few hours are upstream, not a
+  config error. Self-hosting the stats card is the only real fix.
+
+COMMIT CONVENTION
+  feat: | fix: | update: | chore: | style:
+================================================================================
+-->
+
 <div align="center">
 
 <!-- Responsive Header Banner -->
