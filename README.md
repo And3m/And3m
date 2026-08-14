@@ -1,83 +1,29 @@
-<!--
-================================================================================
-MAINTENANCE NOTES (not rendered on the profile page)
-
-This is the And3m/And3m special repo -- this file IS the public GitHub profile.
-Keep maintenance notes in comments like this one; anything outside a comment is
-visible to recruiters.
-
-SOURCE OF TRUTH
-  About Me / Experience / Education mirror the resume (Vijay_Kumar_Andem_Resume,
-  not stored in this repo). Update those three sections together when the resume
-  changes -- do not let the claims drift apart.
-  Only badge tools the resume or a linked repo actually backs. No aspirational icons.
-
-HEADER BANNER
-  Name and tagline live in the text= and desc= params of ALL THREE capsule-render
-  URLs below (mobile / tablet / desktop fallback). Change all three, and keep the
-  <img alt> in sync -- the name exists only inside the image, so alt text is what
-  screen readers and search indexers see.
-  Current tagline: "Senior Business Intelligence & Data Analyst | GenAI Applications"
-
-SNAKE ANIMATION (footer)
-  Must use raw.githubusercontent.com/And3m/And3m/output/...
-  NOT github.com/And3m/And3m/blob/output/... -- blob URLs return an HTML page and
-  render as a broken image. This was a live bug; do not "simplify" it back.
-
-SOCIAL LINKS -- two locations must stay in sync
-  1. Header badge row (flat-square: LinkedIn, Portfolio, Email, X, Views)
-  2. Footer "Let's Talk" CTA (for-the-badge: LinkedIn, Email)
-
-PROJECTS
-  6 max, vertical card format: linked ### heading + one-sentence description +
-  inline code tech tags. Overflow goes to the portfolio site.
-
-THEME ("Midnight Blue")
-  Stats github_dark_dimmed | streak github-dark-blue | typing #58A6FF
-  Gradient customColorList=2,3,12,19,21
-  All widgets support dark/light via <picture> + prefers-color-scheme.
-
-3D CALENDAR -- TWO PLACES MUST AGREE
-  The action emits all 10 theme variants (~2MB); only two are kept:
-    profile-night-rainbow.svg (dark) and profile-green-animate.svg (light).
-  A prune step in 3d-contrib.yml deletes the rest before commit, otherwise
-  the unused eight get re-committed daily.
-  To switch themes you MUST update BOTH the <picture> block below AND the
-  ! -name filters in that prune step, or the file you reference gets deleted
-  on the next run and the calendar 404s.
-
-LINE BREAKS
-  Experience entries and the footer CTA use explicit <br>. A bare newline collapses
-  in some renderers (VS Code preview) and turns the entries into run-on paragraphs.
-
-WORKFLOWS (.github/workflows/)
-  snake.yml      -- contribution snake, every 12h + push to main (paths-ignore set
-                    so the 3d-contrib bot commit doesn't retrigger it)
-  3d-contrib.yml -- 3D calendar, daily 1AM UTC, commits to profile-3d-contrib/
-  REMOVED: update-readme.yml. It used jamesgeorge007/github-activity-readme, which
-  requires START_SECTION:activity and END_SECTION:activity marker comments in this
-  file (HTML comment delimiters around each -- they cannot be written literally
-  here, since a nested close-comment would terminate this block early).
-  Those markers were never present, so it failed on every daily run. If you want it
-  back, add the markers AND the workflow together -- one without the other fails.
-
-KNOWN FLAKINESS
-  github-readme-stats and streak-stats run on shared public instances that
-  rate-limit (429) under load. Blank cards for a few hours are upstream, not a
-  config error. Self-hosting the stats card is the only real fix.
-
-COMMIT CONVENTION
-  feat: | fix: | update: | chore: | style:
-================================================================================
+<!-- MAINTENANCE NOTES (invisible on the rendered profile)
+  1. NO COMMAS in any srcset= URL. srcset is a comma-separated candidate list, so
+     capsule-render's customColorList=2,3,12,19,21 gets truncated to "...=2" and the
+     banner breaks on mobile. Use the single-value customColorList=12 (also stops the
+     multi-value list picking a random gradient on every page load).
+  2. Snake SVGs must come from raw.githubusercontent.com/.../output/, never
+     github.com/.../blob/output/ -- blob URLs serve HTML and render broken.
+  3. 3D calendar: only profile-night-rainbow.svg and profile-green-animate.svg are
+     kept. The prune step in 3d-contrib.yml deletes the other 8 daily, so changing
+     the theme here without changing that filter 404s the image.
+  4. About Me / Experience / Education mirror the resume -- update together.
+     Only badge tools the resume or a linked repo backs.
+  5. Social links live in two places: header badge row and footer CTA.
+  6. Experience entries use explicit <br>; a bare newline collapses in some renderers.
+  7. update-readme.yml was deleted -- it needed activity marker comments that were
+     never in this file, so it failed daily. Re-add both together or neither.
+  8. Blank stats/streak cards are upstream rate-limiting, not a config error.
+  Theme: stats github_dark_dimmed | streak github-dark-blue | typing #58A6FF
 -->
 
 <div align="center">
 
-<!-- Responsive Header Banner -->
+<!-- Responsive Header Banner. NOTE: no commas in these URLs (see srcset note above). -->
 <picture>
-  <source media="(max-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=190&section=header&text=Vijay%20Kumar%20Andem&fontSize=30&animation=fadeIn&fontAlignY=36&desc=Senior%20BI%20%26%20Data%20Analyst%20%7C%20GenAI%20Applications&descAlignY=60&descAlign=50&descSize=12&fontColor=ffffff">
-  <source media="(max-width: 1024px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=200&section=header&text=Vijay%20Kumar%20Andem&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Senior%20Business%20Intelligence%20%26%20Data%20Analyst%20%7C%20GenAI%20Applications&descAlignY=58&descAlign=50&descSize=14&fontColor=ffffff">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=200&section=header&text=Vijay%20Kumar%20Andem&fontSize=52&animation=fadeIn&fontAlignY=36&desc=Senior%20Business%20Intelligence%20%26%20Data%20Analyst%20%7C%20GenAI%20Applications&descAlignY=58&descAlign=50&descSize=17&fontColor=ffffff" width="100%" alt="Vijay Kumar Andem — Senior Business Intelligence and Data Analyst, GenAI Applications" />
+  <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=header&text=Vijay%20Kumar%20Andem&fontSize=34&animation=fadeIn&fontAlignY=38&desc=Senior%20BI%20%26%20Data%20Analyst%20%7C%20GenAI&descAlignY=62&descAlign=50&descSize=16&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vijay%20Kumar%20Andem&fontSize=50&animation=fadeIn&fontAlignY=37&desc=Senior%20Business%20Intelligence%20%26%20Data%20Analyst%20%7C%20GenAI%20Applications&descAlignY=59&descAlign=50&descSize=18&fontColor=ffffff" width="100%" alt="Vijay Kumar Andem — Senior Business Intelligence and Data Analyst, GenAI Applications" />
 </picture>
 
 <!-- Typing Animation -->
@@ -101,25 +47,25 @@ COMMIT CONVENTION
 
 ## About Me
 
-Thirteen years across FMCG, IT services, and healthcare consulting — Infosys, Indegene, IBM, and CavinKare. I work the full stack of the analyst's job: SQL and Python for preparation, Power BI and Tableau for delivery, and the stakeholder conversations that decide what is worth measuring in the first place.
+Thirteen years across FMCG, IT services, and healthcare consulting — Infosys, Indegene, IBM, and CavinKare. SQL and Python for preparation, Power BI and Tableau for delivery, and the stakeholder conversations that decide what is worth measuring at all.
 
-The through-line across those roles is automation: cutting manual reporting effort by over 40% at CavinKare, replacing thousands of recurring weekly data pulls with Python at IBM, and shipping 50+ automated reports at Infosys. Since 2024 I have been extending that same instinct into generative AI — LangChain and RAG applications that let non-technical teams ask questions of business data in plain language, plus local-first tooling with Ollama for privacy-sensitive environments.
+The through-line is automation: over 40% less manual reporting effort at CavinKare, thousands of weekly data pulls replaced with Python at IBM, 50+ automated reports at Infosys. Since 2024 I have extended that into generative AI — LangChain and RAG applications that let non-technical teams query business data in plain language.
 
 ---
 
 ## Experience
 
 **Business Analyst** · CavinKare · Mar 2022 — Dec 2023<br>
-Built automated Power BI dashboards for campaign performance, marketing budget tracking, and ROI across the personal care portfolio, cutting manual reporting effort by over 40%. Analyzed Nielsen and Kantar syndicated data for market share and competitive movement, and presented predictive analysis directly to C-suite stakeholders.
+Power BI dashboards for campaign performance, budget tracking, and ROI across the personal care portfolio — cut manual reporting effort by over 40%. Analyzed Nielsen and Kantar syndicated data and presented predictive analysis to C-suite stakeholders.
 
 **Marketing Analyst** · IBM · Jul 2016 — Mar 2022<br>
-Designed and automated global marketing dashboards in Tableau and Cognos, tracking campaign performance, revenue pipeline, and business partner effectiveness across regions. Automated thousands of recurring weekly data pulls with Python, and built a self-service query application that let non-technical marketing teams retrieve business data without writing SQL.
+Global marketing dashboards in Tableau and Cognos across regions. Replaced thousands of recurring weekly data pulls with Python, and built a self-service query app that let non-technical teams retrieve business data without SQL.
 
 **Reporting Analyst** · Indegene · Aug 2015 — May 2016<br>
-Produced automated marketing and sales performance reporting for Pfizer North America, extracting and modeling large multi-source datasets on short turnaround.
+Automated marketing and sales performance reporting for Pfizer North America across large multi-source datasets.
 
 **Data Analyst** · Infosys · Mar 2011 — Aug 2015<br>
-Developed and automated 50+ reports and dashboards using SQL, VBA, Advanced Excel, and MS Access for the Income Tax Department's Centralized Processing Centre, translating compliance requirements into operational reporting.
+50+ automated reports and dashboards in SQL, VBA, and Advanced Excel for the Income Tax Department's Centralized Processing Centre.
 
 ---
 
@@ -221,9 +167,7 @@ Comprehensive tutorial collection covering LangChain fundamentals through advanc
 
 **BSc in Mathematics, Statistics, and Computer Science** — Kakatiya University
 
-**IBM** — Applied Data Science with Python (Level 2) · Machine Learning with Python (Level 1) · Data Science Foundations · Data Analysis with Python · Data Visualization with Python · Deep Learning Essentials · Accelerated Deep Learning with GPU · Agile Explorer
-
-**Optimizely** — X Web Foundations
+**IBM** — Applied Data Science with Python (L2) · Machine Learning with Python · Data Science Foundations · Data Analysis and Visualization with Python · Deep Learning Essentials &nbsp;|&nbsp; **Optimizely** — X Web Foundations
 
 ---
 
@@ -283,6 +227,6 @@ Based in Bengaluru, India — open to remote.
   <img src="https://raw.githubusercontent.com/And3m/And3m/output/github-contribution-grid-snake-dark.svg" alt="Snake animation traversing the GitHub contribution grid" width="100%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=80&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%" alt="" />
 
 </div>
