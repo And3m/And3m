@@ -1,136 +1,119 @@
 <div align="center">
 
-<!-- Responsive Header Banner -->
 <picture>
-  <source media="(max-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=180&section=header&text=Vijay%20Andem&fontSize=36&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Gen%20AI%20Architect%20%7C%20BI%20Professional&descAlignY=62&descAlign=50&descSize=12&fontColor=ffffff">
-  <source media="(max-width: 1024px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=200&section=header&text=Vijay%20Andem&fontSize=50&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Gen%20AI%20Architect%20%7C%20BI%20Professional&descAlignY=58&descAlign=50&descSize=16&fontColor=ffffff">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=200&section=header&text=Vijay%20Andem&fontSize=60&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Gen%20AI%20Architect%20%7C%20BI%20Professional&descAlignY=58&descAlign=50&descSize=18&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
+  <img src="./assets/profile-header-dark.svg" width="100%" alt="Vijay Andem — Data, intelligence, and products">
 </picture>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Building+AI+Agents+and+LLM+Applications;Crafting+Interactive+BI+Dashboards;Turning+Data+Into+Decisions" alt="Typing SVG" />
+### Building decision systems at the intersection of data, business intelligence, and generative AI.
 
-<br>
+Senior BI & Data Analyst · GenAI Applications · Bengaluru, India
 
-**Data Analyst and Gen AI Architect based in India, building intelligent systems that turn raw data into business decisions.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-andem-b2092223/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayandem@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vjandem)
-![Views](https://komarev.com/ghpvc/?username=And3m&style=flat-square&color=1f6feb)
+[**Portfolio**](https://vijayandem.vercel.app) &nbsp;·&nbsp;
+[**LinkedIn**](https://www.linkedin.com/in/vijay-andem-b2092223/) &nbsp;·&nbsp;
+[**Email**](mailto:vijayandem@gmail.com) &nbsp;·&nbsp;
+[**X**](https://x.com/vjandem)
 
 </div>
 
 ---
 
-## About Me
+## Hello, I'm Vijay.
 
-I work at the intersection of data analytics, business intelligence, and generative AI. My day-to-day involves building Power BI and Tableau dashboards that surface actionable insights, developing LLM-powered applications using LangChain and RAG architectures, and deploying AI agents that automate analytical workflows.
+I turn complex data into reporting, applications, and AI-assisted workflows that people can actually use. Over 13 years across FMCG, IT services, and healthcare consulting, I have worked across the full analytics lifecycle—from SQL and Python pipelines to executive dashboards and stakeholder decisions.
 
-I focus on practical applications -- from interactive Streamlit dashboards for stakeholder reporting to local-first AI solutions using Ollama for privacy-sensitive environments. I believe in turning complex datasets into clear, compelling stories that drive business decisions.
+Today, I am extending that experience into practical generative AI: RAG applications, analytical agents, evaluation workflows, and local-first tools for privacy-sensitive environments.
+
+> **My focus:** useful intelligence over impressive demos—systems that make analysis faster, clearer, and easier to act on.
+
+## Currently
+
+- **Building** practical AI agents and data applications for analysts and business teams.
+- **Exploring** reliable RAG, evaluation, multimodal document intelligence, and the Model Context Protocol.
+- **Open to** senior opportunities and collaborations across business intelligence, analytics, and applied AI.
+
+## Selected work
+
+<sub>01 · APPLIED GENERATIVE AI</sub>
+
+### [GenAI for Analysts ↗](https://github.com/And3m/genai-for-analysts)
+
+A ten-project portfolio that translates LLM concepts into real analytical workflows—from RAG and agentic systems to fine-tuning, evaluation, and multimodal document intelligence.
+
+`Python` `LangChain` `LangGraph` `LlamaIndex` `ChromaDB` `Streamlit`
 
 ---
 
-## Tools and Technologies
+<sub>02 · AGENT INFRASTRUCTURE</sub>
 
-<div align="center">
+### [MCP Data Analysis Toolkit ↗](https://github.com/And3m/mcp-data-analysis-toolkit)
 
-<img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,mongodb,tensorflow,pytorch,sklearn,docker,aws,git,github,vscode,jupyter&perline=7&theme=dark" alt="Tech Stack" />
+A Model Context Protocol server that gives AI agents a standardized way to discover and execute data-processing tools.
 
-<br><br>
+`Python` `MCP` `AI Agents` `LLMs`
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+---
+
+<sub>03 · LOCAL-FIRST AI</sub>
+
+### [Interactive AI Chat Agent ↗](https://github.com/And3m/chainlit-ollama-interactive-agent)
+
+A private, locally hosted conversational agent with real-time system monitoring and built-in analytical commands—without depending on an external model API.
+
+`Python` `Chainlit` `Ollama` `Llama 3.2`
+
+---
+
+<sub>04 · ANALYTICS PRODUCT</sub>
+
+### [Coffee Shop Sales Dashboard ↗](https://github.com/And3m/Coffee-Shop-Sales-Analysis-Dashboard-Streamlit-Pandas-Plotly)
+
+An interactive sales analytics product with KPI tracking, trend exploration, product drilldowns, and exportable insights for a multi-location coffee business.
+
+`Streamlit` `Pandas` `Plotly` `Python` · [**Live dashboard**](https://coffee-shop-dashboard.streamlit.app)
+
+<div align="right">
+
+[Explore more projects →](https://vijayandem.vercel.app)
 
 </div>
 
----
+## What I work with
 
-## Featured Projects
+### AI systems
 
-### [GenAI for Analysts](https://github.com/And3m/genai-for-analysts)
+RAG pipelines, analytical agents, prompt and retrieval design, local LLM applications, multimodal workflows, and evaluation.
 
-10-project portfolio demonstrating practical generative AI applications from a business analytics perspective -- covering LLM foundations, RAG systems, agentic workflows, fine-tuning, evaluation dashboards, and multimodal document intelligence.
+`LangChain` `LangGraph` `LlamaIndex` `OpenAI` `Ollama` `ChromaDB`
 
-`Python` `LangChain` `LangGraph` `LlamaIndex` `ChromaDB` `Streamlit` `RAG` `AI Agents`
+### Data products
 
----
+Interactive applications and automated workflows that make complex analysis accessible to non-technical teams.
 
-### [MCP Data Analysis Toolkit](https://github.com/And3m/mcp-data-analysis-toolkit)
+`Python` `SQL` `Pandas` `Streamlit` `Plotly` `PostgreSQL`
 
-Model Context Protocol server for AI-powered data analysis. Enables LLM agents to discover and execute data processing tools through a standardized protocol interface.
+### Business intelligence
 
-`Python` `MCP` `AI Agents` `LLMs` `Protocol Buffers`
+Decision-focused dashboards, semantic models, KPI frameworks, and executive reporting built around business questions.
 
----
+`Power BI` `DAX` `Power Query` `Tableau` `IBM Cognos` `Advanced Excel`
 
-### [Interactive AI Chat Agent](https://github.com/And3m/chainlit-ollama-interactive-agent)
+## A few outcomes
 
-Locally-hosted conversational AI with real-time system monitoring, 2048-token responses, and built-in analytics commands. Runs 100% on-device with no external API dependencies.
+- Reduced manual reporting effort by **40%+** through Power BI automation.
+- Automated **thousands of recurring data pulls** with Python.
+- Delivered **50+ automated reports and dashboards** across enterprise environments.
+- Worked across **CavinKare, IBM, Indegene, and Infosys**.
 
-`Python` `Chainlit` `Ollama` `Llama 3.2` `Real-time Analytics`
-
----
-
-### [Coffee Shop Sales Dashboard](https://github.com/And3m/Coffee-Shop-Sales-Analysis-Dashboard-Streamlit-Pandas-Plotly) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://coffee-shop-dashboard.streamlit.app)
-
-Interactive Streamlit dashboard with KPIs, trend analysis, and Plotly visualizations for coffee shop sales performance.
-
-`Streamlit` `Pandas` `Plotly` `Python`
-
----
-
-### [Restaurant Ratings Analysis](https://github.com/And3m/Restaurant-Ratings-Analysis-PowerBI)
-
-5-page Power BI dashboard exploring restaurant distribution across Mexico, consumer behavior patterns, and rating trends with geographic analysis.
-
-`Power BI` `DAX` `Power Query` `Data Modeling`
-
----
-
-### [LangChain Playbook](https://github.com/And3m/Langchain_playbook)
-
-Comprehensive tutorial collection covering LangChain fundamentals through advanced implementations -- chatbots, RAG systems, agents, and vector database integrations.
-
-`Python` `LangChain` `OpenAI` `RAG` `Vector Databases`
-
----
-
-## GitHub Analytics
+## GitHub activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=And3m&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=And3m&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=And3m&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=And3m&layout=compact&langs_count=8&theme=github_dark_dimmed" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=And3m&layout=compact&langs_count=8&theme=default" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=And3m&layout=compact&langs_count=8&theme=github_dark_dimmed" alt="Top Languages" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=And3m&theme=github-dark-blue" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=And3m&theme=default" />
-  <img src="https://streak-stats.demolab.com?user=And3m&theme=github-dark-blue" alt="GitHub Streak" />
-</picture>
-
-<br><br>
-
-<!-- 3D Contribution Calendar (generated by GitHub Action) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=And3m&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7dd3fc&amp;text_color=cbd5e1&amp;icon_color=38bdf8&amp;include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=And3m&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0369a1&amp;text_color=334155&amp;icon_color=0284c7&amp;include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=And3m&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7dd3fc&amp;text_color=cbd5e1&amp;icon_color=38bdf8&amp;include_all_commits=true" alt="Vijay's GitHub statistics" height="170">
 </picture>
 
 </div>
@@ -139,13 +122,12 @@ Comprehensive tutorial collection covering LangChain fundamentals through advanc
 
 <div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/And3m/And3m/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/And3m/And3m/blob/output/github-contribution-grid-snake.svg" />
-  <img src="https://github.com/And3m/And3m/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</picture>
+### Have a data problem that could become a useful product?
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,21&height=80&section=footer" width="100%" />
+I'm always interested in thoughtful work across analytics, business intelligence, and applied AI.
+
+[**Start a conversation on LinkedIn**](https://www.linkedin.com/in/vijay-andem-b2092223/) &nbsp;·&nbsp; [**Send me an email**](mailto:vijayandem@gmail.com)
+
+<sub>Designed with clarity, built around useful work.</sub>
 
 </div>
