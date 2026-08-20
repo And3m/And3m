@@ -106,18 +106,6 @@ Decision-focused dashboards, semantic models, KPI frameworks, and executive repo
 - Delivered **50+ automated reports and dashboards** across enterprise environments.
 - Worked across **CavinKare, IBM, Indegene, and Infosys**.
 
-## GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=And3m&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7dd3fc&amp;text_color=cbd5e1&amp;icon_color=38bdf8&amp;include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=And3m&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0369a1&amp;text_color=334155&amp;icon_color=0284c7&amp;include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=And3m&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=7dd3fc&amp;text_color=cbd5e1&amp;icon_color=38bdf8&amp;include_all_commits=true" alt="Vijay's GitHub statistics" height="170">
-</picture>
-
-</div>
-
 ---
 
 <div align="center">

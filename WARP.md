@@ -18,15 +18,14 @@ This repository is the source for Vijay Andem's GitHub profile README.
 4. Four selected projects
 5. Three capability pillars
 6. Outcome snapshot
-7. One GitHub activity card
-8. Contact call to action
+7. Contact call to action
 
 ## Maintenance rules
 
 - Keep the selected work list to four projects.
 - Describe outcomes and users before listing technologies.
 - Avoid typing animations, visitor counters, streaks, badge walls, and decorative contribution animations.
-- Keep external image dependencies to a minimum.
+- Use repository-hosted visuals; avoid third-party image dependencies.
 - Verify all local image paths and outbound links after an edit.
 - Align featured projects with the repositories pinned on the GitHub profile.
 
