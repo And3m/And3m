@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Vijay Andem</title>
+  <desc id="desc">Data, intelligence, and products</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#0b1d35"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8fb8dd" stroke-opacity=".08"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1040" cy="52" r="150" fill="#2563eb" fill-opacity=".13" filter="url(#glow)"/>
+  <circle cx="1000" cy="260" r="120" fill="#06b6d4" fill-opacity=".08" filter="url(#glow)"/>
+  <g transform="translate(72 76)">
+    <rect width="104" height="104" rx="24" fill="#0e2744" stroke="#38bdf8" stroke-opacity=".65"/>
+    <path d="M24 30l28 52 28-52M35 62h34" fill="none" stroke="url(#signal)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif">
+    <text x="208" y="122" fill="#f8fafc" font-size="58" font-weight="700" letter-spacing="2">VIJAY ANDEM</text>
+    <text x="211" y="164" fill="#7dd3fc" font-size="17" font-weight="600" letter-spacing="5">DATA  ×  INTELLIGENCE  ×  PRODUCTS</text>
+    <text x="74" y="254" fill="#94a3b8" font-size="15" letter-spacing="2">BUSINESS INTELLIGENCE</text>
+    <circle cx="306" cy="249" r="3" fill="#38bdf8"/>
+    <text x="326" y="254" fill="#94a3b8" font-size="15" letter-spacing="2">APPLIED AI</text>
+    <circle cx="468" cy="249" r="3" fill="#38bdf8"/>
+    <text x="488" y="254" fill="#94a3b8" font-size="15" letter-spacing="2">ANALYTICS</text>
+    <text x="1004" y="276" fill="#64748b" font-size="12" text-anchor="end" letter-spacing="2">BENGALURU · INDIA</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M794 195l76-42 62 19 78-86 90 36" stroke="#38bdf8" stroke-width="3" stroke-opacity=".72"/>
+    <path d="M794 222l76-24 62 16 78-43 90 10" stroke="#818cf8" stroke-width="2" stroke-opacity=".38"/>
+  </g>
+  <g fill="#0b1d35" stroke="#7dd3fc" stroke-width="3">
+    <circle cx="794" cy="195" r="6"/><circle cx="870" cy="153" r="6"/><circle cx="932" cy="172" r="6"/><circle cx="1010" cy="86" r="6"/><circle cx="1100" cy="122" r="6"/>
+  </g>
+  <rect x="0" y="314" width="1200" height="6" rx="3" fill="url(#signal)"/>
+</svg>
